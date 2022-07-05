@@ -1,0 +1,11 @@
+
+{
+    "fisicas": {
+        "nomes":["marcelo" ,"lisa", "tereza", "victoria"],
+        "cpf":["169057167-58"]
+    },
+    "juridicas": {
+        "nomeE":["GrowSearch"],
+        "cnpj":["199384675-76"]
+    }
+}
